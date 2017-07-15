@@ -1,0 +1,1 @@
+$("sa").click( alert "oh boy!")
